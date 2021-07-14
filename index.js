@@ -8,7 +8,7 @@ var questionAndAnswers = {
     "What is the name of Thor’s hammer?\nA.Vanir\nB.Mjolnir\nC.Aesir\nD.Norn\n",
     "What type of doctor is Stephen Strange? \nA.Neurosurgeon \nB.Cardiothoracic Surgeon \nC.Trauma Surgeon \nD.Plastic Surgeon\n",
     "What landmark does Peter Parker rescue his classmates from in Spider-Man: Homecoming? \nA.Washington Monument \nB.Statue of Liberty \nC.Mount Rushmore \nD.Golden Gate Bridge\n",
-    'What does the Winter Soldier say after Steve recognizes him for the first time? \nA.“Who the hell is Bucky?” \nB.“Do I know you?” \nC.“He’s gone.” \nD.“What did you say?"\n',
+    "What does the Winter Soldier say after Steve recognizes him for the first time? \nA.Who the hell is Bucky? \nB.Do I know you? \nC.He’s gone. \nD.What did you say?\n",
     "About which city do Hawkeye and Black Widow often reminisce? \nA.Budapest \nB.Prague \nC.Istanbul \nD.Sokovia\n",
     "Who does not disappear from “The Snap?” \nA.Bucky Barnes \nB.Wanda Maximoff \nC.Vision \nD.Peter Parker\n",
     "Which Infinity Stone does Thanos get first? \nA.Reality \nB.Space \nC.Power \nD.Soul\n",
